@@ -1,0 +1,365 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TequliasRestaurant.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TequliasRestaurant.jj8oflcjz1.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\1071f8ab-c605-4a09-90d2-abdf0342255c_fishtacos.jpg",
+      "PackagePath": "staticwebassets\\images\\1071f8ab-c605-4a09-90d2-abdf0342255c_fishtacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\187cfd7d-30bb-457f-8b16-8023396c169d_beeftacos.jpg",
+      "PackagePath": "staticwebassets\\images\\187cfd7d-30bb-457f-8b16-8023396c169d_beeftacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\2621cff1-bb91-4999-bc8e-0e90969ebd17_veggietacos.jpg",
+      "PackagePath": "staticwebassets\\images\\2621cff1-bb91-4999-bc8e-0e90969ebd17_veggietacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\2ada6767-f5f9-4766-8d41-8417783d9a02_veggietacos.jpg",
+      "PackagePath": "staticwebassets\\images\\2ada6767-f5f9-4766-8d41-8417783d9a02_veggietacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\4b9ad9e0-a697-41d9-8c73-7d2a891118ac_f4ee1c71-f933-4f14-bae5-931a96631d58_veggietacos.jpg",
+      "PackagePath": "staticwebassets\\images\\4b9ad9e0-a697-41d9-8c73-7d2a891118ac_f4ee1c71-f933-4f14-bae5-931a96631d58_veggietacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\7440955c-9551-4bf1-8054-03f9123d89ee_fishtacos.jpg",
+      "PackagePath": "staticwebassets\\images\\7440955c-9551-4bf1-8054-03f9123d89ee_fishtacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\77766646-f3d3-455e-b06c-e2746be11334_beeftacos.jpg",
+      "PackagePath": "staticwebassets\\images\\77766646-f3d3-455e-b06c-e2746be11334_beeftacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\9a2f8f71-27ed-401d-a729-3d6e640decd1_chickentacos.jpg",
+      "PackagePath": "staticwebassets\\images\\9a2f8f71-27ed-401d-a729-3d6e640decd1_chickentacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\9bac5e3d-d0b9-493e-a1f5-63d7923ceaa6_veggietacos.jpg",
+      "PackagePath": "staticwebassets\\images\\9bac5e3d-d0b9-493e-a1f5-63d7923ceaa6_veggietacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\9c4ff45f-ff38-4f00-badc-172d2da28406_chickentacos.jpg",
+      "PackagePath": "staticwebassets\\images\\9c4ff45f-ff38-4f00-badc-172d2da28406_chickentacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\Nudles.jpg",
+      "PackagePath": "staticwebassets\\images\\Nudles.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\Pasta.jpg",
+      "PackagePath": "staticwebassets\\images\\Pasta.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\Pasta.png",
+      "PackagePath": "staticwebassets\\images\\Pasta.png"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\Pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\Pizza.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\b7f75156-8092-4eae-b02c-6f9c801b4db2_Pizza.jpg",
+      "PackagePath": "staticwebassets\\images\\b7f75156-8092-4eae-b02c-6f9c801b4db2_Pizza.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\b94ca1ba-66a0-479d-a5cf-917ab327cf53_fishtacos.jpg",
+      "PackagePath": "staticwebassets\\images\\b94ca1ba-66a0-479d-a5cf-917ab327cf53_fishtacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\beeftacos.jpg",
+      "PackagePath": "staticwebassets\\images\\beeftacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\c00190dd-c379-4a9b-bb53-3b311c894888_beeftacos.jpg",
+      "PackagePath": "staticwebassets\\images\\c00190dd-c379-4a9b-bb53-3b311c894888_beeftacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\c0d5511f-ff0a-464c-a7f6-636dc88c4cb7_chickentacos.jpg",
+      "PackagePath": "staticwebassets\\images\\c0d5511f-ff0a-464c-a7f6-636dc88c4cb7_chickentacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\chickentacos.jpg",
+      "PackagePath": "staticwebassets\\images\\chickentacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\ebfc3cb6-209b-4f91-a847-ab04bcf1ca35_Pasta.png",
+      "PackagePath": "staticwebassets\\images\\ebfc3cb6-209b-4f91-a847-ab04bcf1ca35_Pasta.png"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\f4ee1c71-f933-4f14-bae5-931a96631d58_veggietacos.jpg",
+      "PackagePath": "staticwebassets\\images\\f4ee1c71-f933-4f14-bae5-931a96631d58_veggietacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\f7b9a407-25d2-47f0-84a1-aaf81d9273fe_Nudles.jpg",
+      "PackagePath": "staticwebassets\\images\\f7b9a407-25d2-47f0-84a1-aaf81d9273fe_Nudles.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\images\\fishtacos.jpg",
+      "PackagePath": "staticwebassets\\images\\fishtacos.jpg"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TequliasRestaurant.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TequliasRestaurant.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TequliasRestaurant.props",
+      "PackagePath": "build\\TequliasRestaurant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TequliasRestaurant.props",
+      "PackagePath": "buildMultiTargeting\\TequliasRestaurant.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TequliasRestaurant.props",
+      "PackagePath": "buildTransitive\\TequliasRestaurant.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

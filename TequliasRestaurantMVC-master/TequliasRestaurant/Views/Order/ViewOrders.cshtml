@@ -1,0 +1,54 @@
+﻿@model IEnumerable<TequliasRestaurant.Models.Order>
+
+@{
+    ViewData["Title"] = "My Orders";
+}
+
+<div class="container mt-5">
+    <h2 class="mb-4 text-primary">📦 My Orders</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info text-center">
+            You haven't placed any orders yet.
+        </div>
+    }
+    else
+    {
+        <div class="accordion" id="orderAccordion">
+            @foreach (var order in Model.Select((value, index) => new { value, index }))
+            {
+                var orderData = order.value;
+                var collapseId = $"collapse{order.index}";
+                var headingId = $"heading{order.index}";
+
+                <div class="accordion-item mb-3 border border-primary rounded shadow-sm">
+                    <h2 class="accordion-header" id="@headingId">
+                        <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#@collapseId" aria-expanded="false" aria-controls="@collapseId">
+                            🧾 Order #@orderData.OrderId &nbsp;|&nbsp; 📅 @orderData.OrderDate.ToString("MMM dd, yyyy") &nbsp;|&nbsp; 💰 @orderData.TotalAmount.ToString("C")
+                        </button>
+                    </h2>
+                    <div id="@collapseId" class="accordion-collapse collapse" aria-labelledby="@headingId" data-bs-parent="#orderAccordion">
+                        <div class="accordion-body">
+                            <h5 class="text-secondary">Items</h5>
+                            <ul class="list-group list-group-flush">
+                                @foreach (var item in orderData.OrderItems)
+                                {
+                                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                                        <span>
+                                            🍽 <strong>@item.Product.Name</strong>
+                                            <small class="text-muted">(@item.Quantity × @item.Price.ToString("C"))</small>
+                                        </span>
+                                        <span class="badge bg-primary rounded-pill">
+                                            @((item.Quantity * item.Price).ToString("C"))
+                                        </span>
+                                    </li>
+                                }
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

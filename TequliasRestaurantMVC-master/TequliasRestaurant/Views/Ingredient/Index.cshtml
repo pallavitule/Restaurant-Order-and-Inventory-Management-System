@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Ingredient>
+@{
+    ViewBag.Title = "Ingredients";
+}
+
+<div class="container mt-5">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+        <h2 class="fw-bold text-primary">Ingredients</h2>
+        <a asp-action="Create" class="btn btn-success">
+            <i class="bi bi-plus-circle"></i> Add New Ingredient
+        </a>
+    </div>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning">No ingredients found.</div>
+    }
+    else
+    {
+        <div class="row row-cols-1 row-cols-md-3 g-4">
+            @foreach (var i in Model)
+            {
+                <div class="col">
+                    <div class="card shadow-sm h-100 border-primary">
+                        <div class="card-body">
+                            <h5 class="card-title">@i.Name</h5>
+                            <div class="d-flex justify-content-between mt-3">
+                                <a asp-action="Details" asp-route-id="@i.IngredientId" class="btn btn-outline-info btn-sm">
+                                    <i class="bi bi-eye"></i> Details
+                                </a>
+                                <a asp-action="Edit" asp-route-id="@i.IngredientId" class="btn btn-outline-warning btn-sm">
+                                    <i class="bi bi-pencil-square"></i> Edit
+                                </a>
+                                <a asp-action="Delete" asp-route-id="@i.IngredientId" class="btn btn-outline-danger btn-sm">
+                                    <i class="bi bi-trash"></i> Delete
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

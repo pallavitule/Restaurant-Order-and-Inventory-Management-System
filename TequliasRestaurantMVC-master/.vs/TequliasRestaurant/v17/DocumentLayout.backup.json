@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\views\\ingredient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\views\\ingredient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\tequliasrestaurant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\tequliasrestaurant.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|e:\\asp11\\tequliasrestaurantmvc-master\\tequliasrestaurantmvc-master\\tequliasrestaurant\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55B9676-6405-46FF-879D-88A74C3E7FFE}|TequliasRestaurant\\TequliasRestaurant.csproj|solutionrelative:tequliasrestaurant\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewOrders.cshtml",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Order\\ViewOrders.cshtml",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Views\\Order\\ViewOrders.cshtml",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Order\\ViewOrders.cshtml",
+              "RelativeToolTip": "TequliasRestaurant\\Views\\Order\\ViewOrders.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T19:51:34.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Order\\Cart.cshtml",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Views\\Order\\Cart.cshtml",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Order\\Cart.cshtml",
+              "RelativeToolTip": "TequliasRestaurant\\Views\\Order\\Cart.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T19:47:13.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "TequliasRestaurant\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T19:20:31.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Views\\Order\\Create.cshtml",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "TequliasRestaurant\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T19:15:29.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "TequliasRestaurant\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T19:11:05.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Ingredient\\Index.cshtml",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Views\\Ingredient\\Index.cshtml",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Ingredient\\Index.cshtml",
+              "RelativeToolTip": "TequliasRestaurant\\Views\\Ingredient\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T19:06:55.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TequliasRestaurant\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAApwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T18:14:55.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TequliasRestaurant.csproj",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\TequliasRestaurant.csproj",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\TequliasRestaurant.csproj",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\TequliasRestaurant.csproj",
+              "RelativeToolTip": "TequliasRestaurant\\TequliasRestaurant.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T17:55:25.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\appsettings.json",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\appsettings.json",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\appsettings.json",
+              "RelativeToolTip": "TequliasRestaurant\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T17:40:52.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Program.cs",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Program.cs",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Program.cs",
+              "RelativeToolTip": "TequliasRestaurant\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:23:59.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TequliasRestaurant\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T17:19:57.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Views\\Product\\Index.cshtml",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "TequliasRestaurant\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T19:27:21.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Product\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Views\\Product\\AddEdit.cshtml",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Views\\Product\\AddEdit.cshtml",
+              "RelativeToolTip": "TequliasRestaurant\\Views\\Product\\AddEdit.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-27T19:27:18.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "TequliasRestaurant\\Models\\Repository.cs",
+              "ToolTip": "E:\\ASP11\\TequliasRestaurantMVC-master\\TequliasRestaurantMVC-master\\TequliasRestaurant\\Models\\Repository.cs",
+              "RelativeToolTip": "TequliasRestaurant\\Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:20:33.18Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5 text-center">
+    <h1 class="display-4 text-success fw-bold">🌮 Welcome to Tequila’s Restaurant</h1>
+    <p class="lead mt-3">Manage your menu, ingredients, and orders — all in one place.</p>
+
+    <div class="row mt-5 justify-content-center">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow border-0">
+                <div class="card-body">
+                    <i class="bi bi-card-list display-4 text-primary mb-3"></i>
+                    <h5 class="card-title">View Menu</h5>
+                    <p class="card-text">Browse delicious items available in our restaurant.</p>
+                    <a asp-controller="Product" asp-action="Index" class="btn btn-outline-primary">Go to Menu</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow border-0">
+                <div class="card-body">
+                    <i class="bi bi-box-seam display-4 text-warning mb-3"></i>
+                    <h5 class="card-title">Manage Orders</h5>
+                    <p class="card-text">Place, view, or update customer orders quickly.</p>
+                    <a asp-controller="Order" asp-action="ViewOrders" class="btn btn-outline-warning">Manage Orders</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow border-0">
+                <div class="card-body">
+                    <i class="bi bi-list-check display-4 text-success mb-3"></i>
+                    <h5 class="card-title">Manage Ingredients</h5>
+                    <p class="card-text">Add or edit the ingredients available for your menu items.</p>
+                    <a asp-controller="Ingredient" asp-action="Index" class="btn btn-outline-success">Manage Ingredients</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="mt-5">
+        <p class="text-muted">Powered by ASP.NET Core MVC & Entity Framework</p>
+    </div>
+</div>
